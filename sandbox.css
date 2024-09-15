@@ -1,0 +1,38 @@
+.accordion-item{
+    border: none;
+}
+
+.one{
+   max-height: 5000px;
+    background-color: rgb(208, 218, 221);
+}
+
+/* 
+@keyframes vasu{
+    0%{
+        color: blue;
+    }
+    50%{
+        color: blue;
+    }
+    75%{
+        color: blue;
+    }
+}
+
+.process-1{
+  color: blue;
+    animation-name: vasu;
+    animation-duration: 2s;
+    animation-delay: 2s;
+} */
+
+
+
+/* .vasu{
+    height:200px;
+    max-width: 900px; 
+    border: 2px solid red;
+    overflow: hidden;
+} */
+
